@@ -51,6 +51,13 @@ div {
 }
 
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 a:link {
     color: black;
     font-family: 'Oxygen', sans-serif;
