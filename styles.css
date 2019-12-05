@@ -48,9 +48,6 @@ div {
     font-family: 'Montserrat', sans-serif;
     border: 1px transparent;
     padding-top: 0pt;
-    display: flex;
-    flex-wrap: wrap;
-    align-content:flex-start;
 }
 
 .center {
