@@ -23,6 +23,11 @@ li {
     padding: 10pt;
 }
 
+img {
+  width: 50%;
+  height: 50%;
+}
+
 h1 {
     font-family: 'Cedarville Cursive', cursive;
     text-align: center;
@@ -49,7 +54,6 @@ div {
     border: 1px transparent;
     padding-top: 0pt;
 }
-
 
 .center {
   display: block;
