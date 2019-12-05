@@ -60,25 +60,25 @@ div {
 a:link {
     color: black;
     font-family: 'Oxygen', sans-serif;
-    font-size: 12pt;
+    font-size: 15pt;
 }
 
 a:visited {
     color: black;
     font-family: 'Oxygen', sans-serif;
-    font-size: 12pt;
+    font-size: 15pt;
 }
 
 a:hover {
     color: burlywood;
     font-family: 'Oxygen', sans-serif;
-    font-size: 12pt;
+    font-size: 15pt;
 }
 
 a:active {
     color: white;
     font-family: 'Oxygen', sans-serif;
-    font-size: 12pt;
+    font-size: 15pt;
 }
 
 .social {
