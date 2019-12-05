@@ -50,7 +50,7 @@ div {
     padding-top: 0pt;
     display: flex;
     flex-wrap: wrap;
-    align-content:flex-start
+    align-content:flex-start;
 }
 
 .center {
